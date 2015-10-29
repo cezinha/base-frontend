@@ -1,0 +1,28 @@
+{
+  "name": "base-frontend",
+  "description": "basic CSS (less) and JS (bootstrap, jquery, grunt) for web page",
+  "main": "js/script.js",
+  "authors": [
+    "Celina Uemura <cezinha@cezinha.com.br>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "css",
+    "js",
+    "mobile"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "ki": "*"
+  }
+}
